@@ -1,7 +1,7 @@
 {
     "author": "Ivar Nilsen",
-    "name": "angular-start-client",
-    "description": "Angular Starting Point",
+    "name": "progressive-dinner-client",
+    "description": "Progressive Dinner",
     "version": "0.0.1",
     "licenses": [{ 
         "type": "MIT",
