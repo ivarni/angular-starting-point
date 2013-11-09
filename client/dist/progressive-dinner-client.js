@@ -1,4 +1,4 @@
-/*! Angular-starting-point - v0.0.1-SNAPSHOT
+/*! progressive-dinner-client - v0.0.1
  * Copyright (c) 2013 Ivar Nilsen
  * Licensed MIT
  */
