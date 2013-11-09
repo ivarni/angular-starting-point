@@ -1,8 +1,16 @@
 {
-    "name": "Angular-starting-point",
-    "description": "Angular starting point",
+    "author": "Ivar Nilsen",
+    "name": "angular-start-server",
+    "description": "Angular Starting Point",
     "version": "0.0.1",
+    "licenses": [{ 
+        "type": "MIT",
+        "url": "https://raw.github.com/ivarni/angular-starting-point/master/LICENSE"
+    }],    
     "private": true,
+    "engines": {
+        "node": ">= 0.8.4"
+    },    
     "dependencies": {
         "express": "~3.0"
     },
